@@ -1,4 +1,5 @@
 classDiagram
+
     class 교수 {
         -String 교수id
         +교수체크(교수id: String) boolean
