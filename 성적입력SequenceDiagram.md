@@ -2,7 +2,7 @@
 sequenceDiagram
     autonumber
     actor 교수_Actor as 교수
-    participant AddUI as <<boundary>><br>Add_Sungjuk_UI
+    participant AddUI as <<boundary>><br>성적입력
     participant 교수클래스 as 교수
     participant 성적클래스 as 성적
 
