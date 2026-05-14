@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     actor 교수
     participant UI as ":Search_Sungjuk_UI"<br/><<boundary>>
