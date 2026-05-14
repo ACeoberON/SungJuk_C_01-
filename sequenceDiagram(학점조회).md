@@ -1,9 +1,9 @@
 ```mermaid
 sequenceDiagram
     actor 교수
-    participant UI as "학점조회"<br/><<boundary>>
-    participant P as ":교수"
-    participant S as ":성적"
+    participant UI as 학점조회<br/><<boundary>>
+    participant P as :교수
+    participant S as :성적
 
     교수->>UI: 1: 학점조회요청(교수id, 학생id)
     activate UI
