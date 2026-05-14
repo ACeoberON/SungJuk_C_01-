@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class 교수 {
         -String 교수id
