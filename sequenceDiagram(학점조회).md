@@ -1,7 +1,7 @@
 ```mermaid
 sequenceDiagram
     actor 교수
-    participant UI as 학점조회<br/><<boundary>>
+    participant UI as <<boundary>><br/>학점조회
     participant P as :교수
     participant S as :성적
 
